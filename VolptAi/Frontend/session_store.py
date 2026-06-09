@@ -1,0 +1,2 @@
+TOKEN = None
+USERNAME = None
